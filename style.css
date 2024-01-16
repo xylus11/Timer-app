@@ -62,9 +62,8 @@ input:focus{
         background-color:#F0F757;
        color:  #1d1d23;
     }
- button:hover{
-     background-color: #FF9843;
-       
+    button:hover{
+        background-color:#FF9843;
     }
 .current-timers{
     display: flex;
